@@ -1,0 +1,725 @@
+{
+  "phrases": [
+    {
+      "english": "Embrace the journey, learn daily.",
+      "hebrew": "אמצו את המסע, למדו יום יום.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885962"
+    },
+    {
+      "english": "Be present, enjoy today.",
+      "hebrew": "היו נוכחים, תיהנו מהיום.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885969"
+    },
+    {
+      "english": "Kindness, a universal language.",
+      "hebrew": "חסד, שפה אוניברסלית.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885971"
+    },
+    {
+      "english": "Start with a smile, win the day.",
+      "hebrew": "התחילו בחיוך, נצחו את היום.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885972"
+    },
+    {
+      "english": "Open your heart, receive love.",
+      "hebrew": "פתחו לב, קבלו אהבה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885973"
+    },
+    {
+      "english": "Small steps, big progress.",
+      "hebrew": "צעדים קטנים, התקדמות גדולה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885975"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "hebrew": "הקשיבו יותר, דברו פחות.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885976"
+    },
+    {
+      "english": "Curiosity, your best guide.",
+      "hebrew": "סקרנות, המדריך הטוב ביותר.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885979"
+    },
+    {
+      "english": "Find joy, in simple things.",
+      "hebrew": "מצאו שמחה, בדברים פשוטים.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885980"
+    },
+    {
+      "english": "Grow through challenges, always.",
+      "hebrew": "צמחו דרך אתגרים, תמיד.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885982"
+    },
+    {
+      "english": "Share your light, brighten lives.",
+      "hebrew": "חלקו אורכם, האפילו חיים.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885983"
+    },
+    {
+      "english": "Be thankful, for everything.",
+      "hebrew": "היו מודים, על הכל.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885985"
+    },
+    {
+      "english": "Inspire others, by being you.",
+      "hebrew": "עוררו אחרים, בהיותכם אתם.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885986"
+    },
+    {
+      "english": "Dream big, start small.",
+      "hebrew": "חלמו בגדול, התחילו בקטן.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885987"
+    },
+    {
+      "english": "Create your own sunshine.",
+      "hebrew": "צרו את השמש שלכם.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885988"
+    },
+    {
+      "english": "Learn from mistakes, move forward.",
+      "hebrew": "למדו מטעויות, המשיכו קדימה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885989"
+    },
+    {
+      "english": "Adventure awaits, say yes.",
+      "hebrew": "הרפתקה מחכה, אמרו כן.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885991"
+    },
+    {
+      "english": "Connect deeply, live fully.",
+      "hebrew": "התחברו עמוק, חיו במלוא.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885992"
+    },
+    {
+      "english": "Forgive quickly, love deeply.",
+      "hebrew": "סלחו מהר, אהבו עמוק.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885993"
+    },
+    {
+      "english": "Find your purpose, with passion.",
+      "hebrew": "מצאו את ייעודכם, בתשוקה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885994"
+    },
+    {
+      "english": "Be kind, always.",
+      "hebrew": "היו טובים, תמיד.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885996"
+    },
+    {
+      "english": "Seek understanding, build bridges.",
+      "hebrew": "חפשו הבנה, בנו גשרים.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885997"
+    },
+    {
+      "english": "Every day is a new chance.",
+      "hebrew": "כל יום הוא הזדמנות חדשה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885998"
+    },
+    {
+      "english": "Believe in good, make it happen.",
+      "hebrew": "האמינו בטוב, עשו זאת.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.885999"
+    },
+    {
+      "english": "Spread positivity, like wildfire.",
+      "hebrew": "הפיצו חיוביות, כמו אש.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886004"
+    },
+    {
+      "english": "Learn something new, every hour.",
+      "hebrew": "למדו משהו חדש, כל שעה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886005"
+    },
+    {
+      "english": "Make memories, that last.",
+      "hebrew": "צרו זכרונות, שיישארו.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886006"
+    },
+    {
+      "english": "Be the change, you wish to see.",
+      "hebrew": "היו השינוי, שתרצו לראות.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886007"
+    },
+    {
+      "english": "Trust your intuition, it's wise.",
+      "hebrew": "סמכו על האינטואיציה, היא חכמה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886008"
+    },
+    {
+      "english": "Seek adventure, in the ordinary.",
+      "hebrew": "חפשו הרפתקה, ביום-יום.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886009"
+    },
+    {
+      "english": "Embrace simplicity, find peace.",
+      "hebrew": "אמצו פשטות, מצאו שלווה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886010"
+    },
+    {
+      "english": "Laugh often, live longer.",
+      "hebrew": "צחקו הרבה, חיו יותר.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886011"
+    },
+    {
+      "english": "Connect with nature, feel alive.",
+      "hebrew": "התחברו לטבע, הרגישו חיים.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886012"
+    },
+    {
+      "english": "Be a force, for good.",
+      "hebrew": "היו כוח, לטוב.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886013"
+    },
+    {
+      "english": "Cultivate gratitude, daily.",
+      "hebrew": "טפחו הכרת תודה, יום יום.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886014"
+    },
+    {
+      "english": "Dare to dream, it's free.",
+      "hebrew": "העזו לחלום, זה בחינם.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886015"
+    },
+    {
+      "english": "Spread joy, wherever you go.",
+      "hebrew": "הפיצו שמחה, לכל מקום.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886016"
+    },
+    {
+      "english": "Find strength, in vulnerability.",
+      "hebrew": "מצאו כוח, בפגיעות.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886017"
+    },
+    {
+      "english": "Believe in possibilities, always.",
+      "hebrew": "האמינו באפשרויות, תמיד.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886018"
+    },
+    {
+      "english": "Live with intention, and purpose.",
+      "hebrew": "חיו בכוונה, ומטרה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886019"
+    },
+    {
+      "english": "Your attitude, is everything.",
+      "hebrew": "הגישה שלכם, היא הכל.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886020"
+    },
+    {
+      "english": "Smile often, it's free.",
+      "hebrew": "חייך הרבה, זה בחינם.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886022"
+    },
+    {
+      "english": "Be kind, always.",
+      "hebrew": "היה נחמד, תמיד.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886023"
+    },
+    {
+      "english": "Listen more, talk less.",
+      "hebrew": "הקשב יותר, דבר פחות.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886024"
+    },
+    {
+      "english": "Learn something new, today.",
+      "hebrew": "למד משהו חדש, היום.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886025"
+    },
+    {
+      "english": "Share your joy, spread it.",
+      "hebrew": "שתף את השמחה שלך, הפץ אותה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886026"
+    },
+    {
+      "english": "Help someone, it feels good.",
+      "hebrew": "עזור למישהו, זה נעים.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886027"
+    },
+    {
+      "english": "Stay curious, explore more.",
+      "hebrew": "הישאר סקרן, חקור יותר.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886028"
+    },
+    {
+      "english": "Drink water, feel alive.",
+      "hebrew": "שתה מים, הרגש חי.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886029"
+    },
+    {
+      "english": "Breathe deep, find peace.",
+      "hebrew": "נשום עמוק, מצא שלווה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886031"
+    },
+    {
+      "english": "Move your body, feel strong.",
+      "hebrew": "הנע את גופך, הרגש חזק.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886034"
+    },
+    {
+      "english": "See beauty, everywhere.",
+      "hebrew": "ראה יופי, בכל מקום.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886035"
+    },
+    {
+      "english": "Give thanks, daily.",
+      "hebrew": "תן תודה, מדי יום.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886036"
+    },
+    {
+      "english": "Forgive easily, lighten up.",
+      "hebrew": "סלח בקלות, קל את ליבך.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886037"
+    },
+    {
+      "english": "Dream big, start small.",
+      "hebrew": "חלום בגדול, התחל בקטן.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886038"
+    },
+    {
+      "english": "Be patient, good things come.",
+      "hebrew": "היה סבלני, דברים טובים באים.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886039"
+    },
+    {
+      "english": "Laugh a lot, it heals.",
+      "hebrew": "צחק הרבה, זה מרפא.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886040"
+    },
+    {
+      "english": "Stay positive, it's key.",
+      "hebrew": "הישאר חיובי, זה המפתח.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886041"
+    },
+    {
+      "english": "Embrace change, grow stronger.",
+      "hebrew": "חבק שינוי, גדל חזק.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886043"
+    },
+    {
+      "english": "Trust yourself, you know best.",
+      "hebrew": "סמוך על עצמך, אתה יודע הכי טוב.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886044"
+    },
+    {
+      "english": "Simplify your life, find calm.",
+      "hebrew": "פשט את חייך, מצא רוגע.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886045"
+    },
+    {
+      "english": "Connect with nature, recharge.",
+      "hebrew": "התחבר לטבע, טען מחדש.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886046"
+    },
+    {
+      "english": "Be present, enjoy the moment.",
+      "hebrew": "היה נוכח, תהנה מהרגע.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886047"
+    },
+    {
+      "english": "Forgive yourself, move on.",
+      "hebrew": "סלח לעצמך, המשך הלאה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886047"
+    },
+    {
+      "english": "Seek adventure, live fully.",
+      "hebrew": "חפש הרפתקה, חיה במלואך.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886049"
+    },
+    {
+      "english": "Celebrate small wins, notice them.",
+      "hebrew": "חגוג הצלחות קטנות, שים לב אליהן.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886050"
+    },
+    {
+      "english": "Be grateful, appreciate it.",
+      "hebrew": "היה אסיר תודה, הערך את זה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886051"
+    },
+    {
+      "english": "Spread positivity, like sunshine.",
+      "hebrew": "פזר חיוביות, כמו שמש.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886052"
+    },
+    {
+      "english": "Listen to your heart, follow it.",
+      "hebrew": "הקשב ללב שלך, לך אחריו.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886053"
+    },
+    {
+      "english": "Find joy in simple things.",
+      "hebrew": "מצא שמחה בדברים פשוטים.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886054"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "hebrew": "האמן בעצמך, אתה יכול.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886055"
+    },
+    {
+      "english": "Be honest, with everyone.",
+      "hebrew": "היה כן, עם כולם.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886056"
+    },
+    {
+      "english": "Reach out, connect more.",
+      "hebrew": "פנה החוצה, התחבר יותר.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886057"
+    },
+    {
+      "english": "Rest well, your body thanks you.",
+      "hebrew": "נוח היטב, גופך מודה לך.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886058"
+    },
+    {
+      "english": "Be brave, take the leap.",
+      "hebrew": "היה אמיץ, קפוץ את הקפיצה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886059"
+    },
+    {
+      "english": "Share your knowledge, teach.",
+      "hebrew": "שתף את הידע שלך, למד.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886062"
+    },
+    {
+      "english": "Practice gratitude, daily habit.",
+      "hebrew": "תרגל תודה, הרגל יומי.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886063"
+    },
+    {
+      "english": "Seek solutions, not problems.",
+      "hebrew": "חפש פתרונות, לא בעיות.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886065"
+    },
+    {
+      "english": "Stay humble, learn always.",
+      "hebrew": "הישאר צנוע, למד תמיד.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886066"
+    },
+    {
+      "english": "Be creative, think differently.",
+      "hebrew": "היה יצירתי, חשוב אחרת.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886067"
+    },
+    {
+      "english": "Spread kindness, it's contagious.",
+      "hebrew": "פזר חמלה, זה מדבק.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886068"
+    },
+    {
+      "english": "Smile often, it's free.",
+      "hebrew": "חייך הרבה, זה בחינם.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886069"
+    },
+    {
+      "english": "Be kind, always.",
+      "hebrew": "היה נחמד, תמיד.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886072"
+    },
+    {
+      "english": "Listen more, talk less.",
+      "hebrew": "הקשב יותר, דבר פחות.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886073"
+    },
+    {
+      "english": "Learn something new, today.",
+      "hebrew": "למד משהו חדש, היום.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886074"
+    },
+    {
+      "english": "Share your joy, spread it.",
+      "hebrew": "שתף את השמחה שלך, הפץ אותה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886075"
+    },
+    {
+      "english": "Help someone, it feels good.",
+      "hebrew": "עזור למישהו, זה נעים.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886076"
+    },
+    {
+      "english": "Stay curious, explore more.",
+      "hebrew": "הישאר סקרן, חקור יותר.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886077"
+    },
+    {
+      "english": "Drink water, feel alive.",
+      "hebrew": "שתה מים, הרגש חי.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886078"
+    },
+    {
+      "english": "Breathe deep, find peace.",
+      "hebrew": "נשום עמוק, מצא שלווה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886079"
+    },
+    {
+      "english": "Move your body, feel strong.",
+      "hebrew": "הנע את גופך, הרגש חזק.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886079"
+    },
+    {
+      "english": "See beauty, everywhere.",
+      "hebrew": "ראה יופי, בכל מקום.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886081"
+    },
+    {
+      "english": "Give thanks, daily.",
+      "hebrew": "תן תודה, מדי יום.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886082"
+    },
+    {
+      "english": "Forgive easily, lighten up.",
+      "hebrew": "סלח בקלות, קל את ליבך.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886083"
+    },
+    {
+      "english": "Dream big, start small.",
+      "hebrew": "חלום בגדול, התחל בקטן.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886084"
+    },
+    {
+      "english": "Be patient, good things come.",
+      "hebrew": "היה סבלני, דברים טובים באים.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886085"
+    },
+    {
+      "english": "Laugh a lot, it heals.",
+      "hebrew": "צחק הרבה, זה מרפא.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886086"
+    },
+    {
+      "english": "Stay positive, it's key.",
+      "hebrew": "הישאר חיובי, זה המפתח.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886087"
+    },
+    {
+      "english": "Embrace change, grow stronger.",
+      "hebrew": "חבק שינוי, גדל חזק.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886088"
+    },
+    {
+      "english": "Trust yourself, you know best.",
+      "hebrew": "סמוך על עצמך, אתה יודע הכי טוב.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886089"
+    },
+    {
+      "english": "Simplify your life, find calm.",
+      "hebrew": "פשט את חייך, מצא רוגע.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886090"
+    },
+    {
+      "english": "Connect with nature, recharge.",
+      "hebrew": "התחבר לטבע, טען מחדש.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886091"
+    },
+    {
+      "english": "Be present, enjoy the moment.",
+      "hebrew": "היה נוכח, תהנה מהרגע.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886092"
+    },
+    {
+      "english": "Forgive yourself, move on.",
+      "hebrew": "סלח לעצמך, המשך הלאה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886093"
+    },
+    {
+      "english": "Seek adventure, live fully.",
+      "hebrew": "חפש הרפתקה, חיה במלואך.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886094"
+    },
+    {
+      "english": "Celebrate small wins, notice them.",
+      "hebrew": "חגוג הצלחות קטנות, שים לב אליהן.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886095"
+    },
+    {
+      "english": "Be grateful, appreciate it.",
+      "hebrew": "היה אסיר תודה, הערך את זה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886096"
+    },
+    {
+      "english": "Spread positivity, like sunshine.",
+      "hebrew": "פזר חיוביות, כמו שמש.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886097"
+    },
+    {
+      "english": "Listen to your heart, follow it.",
+      "hebrew": "הקשב ללב שלך, לך אחריו.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886098"
+    },
+    {
+      "english": "Find joy in simple things.",
+      "hebrew": "מצא שמחה בדברים פשוטים.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886099"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "hebrew": "האמן בעצמך, אתה יכול.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886100"
+    },
+    {
+      "english": "Be honest, with everyone.",
+      "hebrew": "היה כן, עם כולם.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886101"
+    },
+    {
+      "english": "Reach out, connect more.",
+      "hebrew": "פנה החוצה, התחבר יותר.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886102"
+    },
+    {
+      "english": "Rest well, your body thanks you.",
+      "hebrew": "נוח היטב, גופך מודה לך.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886103"
+    },
+    {
+      "english": "Be brave, take the leap.",
+      "hebrew": "היה אמיץ, קפוץ את הקפיצה.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886105"
+    },
+    {
+      "english": "Share your knowledge, teach.",
+      "hebrew": "שתף את הידע שלך, למד.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886107"
+    },
+    {
+      "english": "Practice gratitude, daily habit.",
+      "hebrew": "תרגל תודה, הרגל יומי.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886108"
+    },
+    {
+      "english": "Seek solutions, not problems.",
+      "hebrew": "חפש פתרונות, לא בעיות.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886109"
+    },
+    {
+      "english": "Stay humble, learn always.",
+      "hebrew": "הישאר צנוע, למד תמיד.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886110"
+    },
+    {
+      "english": "Be creative, think differently.",
+      "hebrew": "היה יצירתי, חשוב אחרת.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-15T00:49:17.886111"
+    }
+  ],
+  "last_updated": "2026-07-15T00:49:17.886112"
+}
