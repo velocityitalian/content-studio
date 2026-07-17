@@ -2159,7 +2159,727 @@
       "Hebrew": "יום חדש, מביא הזדמנויות חדשות.",
       "category": "Hope",
       "generated_at": "2026-07-16T03:56:34.771416"
+    },
+    {
+      "english": "Slow down, enjoy the ride.",
+      "Hebrew": "תאט, תהנה מהדרך.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162248"
+    },
+    {
+      "english": "One step, at a time.",
+      "Hebrew": "צעד אחד, בכל פעם.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162255"
+    },
+    {
+      "english": "Breathe deep, and wait.",
+      "Hebrew": "נשום עמוק, וחכה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162256"
+    },
+    {
+      "english": "Trust the process, friend.",
+      "Hebrew": "סמוך על התהליך, חבר.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162257"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "Hebrew": "רומא לא נבנתה, ביום.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162258"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "Hebrew": "סבלנות, היא מתנה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162259"
+    },
+    {
+      "english": "Don't rush, the blooming.",
+      "Hebrew": "אל תמהר, לפריחה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162260"
+    },
+    {
+      "english": "Patience, pays off.",
+      "Hebrew": "סבלנות, משתלמת.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162262"
+    },
+    {
+      "english": "Let things unfold, naturally.",
+      "Hebrew": "תן לדברים להתפתח, באופן טבעי.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162263"
+    },
+    {
+      "english": "The right moment, will come.",
+      "Hebrew": "הרגע הנכון, יגיע.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162263"
+    },
+    {
+      "english": "Wait for the green light.",
+      "Hebrew": "חכה לאור הירוק.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162264"
+    },
+    {
+      "english": "Give it, some time.",
+      "Hebrew": "תן לזה, קצת זמן.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162265"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "Hebrew": "היה סבלני, עם עצמך.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162266"
+    },
+    {
+      "english": "Stillness, brings clarity.",
+      "Hebrew": "שקט, מביא בהירות.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162266"
+    },
+    {
+      "english": "The waiting, is part of it.",
+      "Hebrew": "ההמתנה, היא חלק מזה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162267"
+    },
+    {
+      "english": "Cultivate, your patience.",
+      "Hebrew": "טפח, את סבלנותך.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162268"
+    },
+    {
+      "english": "Let the garden, grow.",
+      "Hebrew": "תן לגינה, לגדול.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162268"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "Hebrew": "סבלנות, היא מידה טובה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162269"
+    },
+    {
+      "english": "Don't force, it.",
+      "Hebrew": "אל תכריח, את זה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162270"
+    },
+    {
+      "english": "The best things, ripen slowly.",
+      "Hebrew": "הדברים הטובים, מבשילים לאט.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162271"
+    },
+    {
+      "english": "Allow space, for growth.",
+      "Hebrew": "אפשר מקום, לצמיחה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162271"
+    },
+    {
+      "english": "Your time, is coming.",
+      "Hebrew": "הזמן שלך, מגיע.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162272"
+    },
+    {
+      "english": "Patience, is a superpower.",
+      "Hebrew": "סבלנות, היא כוח על.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162272"
+    },
+    {
+      "english": "Observe, and wait.",
+      "Hebrew": "צפה, והמתן.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162273"
+    },
+    {
+      "english": "The universe, has a plan.",
+      "Hebrew": "ליקום, יש תוכנית.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162273"
+    },
+    {
+      "english": "Be still, and know.",
+      "Hebrew": "היה שקט, ודע.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162274"
+    },
+    {
+      "english": "Let it be, a journey.",
+      "Hebrew": "תן לזה להיות, מסע.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162275"
+    },
+    {
+      "english": "Good things, are worth waiting.",
+      "Hebrew": "דברים טובים, שווים המתנה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162277"
+    },
+    {
+      "english": "Trust the timing, of life.",
+      "Hebrew": "סמוך על התזמון, של החיים.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162277"
+    },
+    {
+      "english": "Practice, being present.",
+      "Hebrew": "תרגל, להיות נוכח.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162278"
+    },
+    {
+      "english": "The seed, needs time.",
+      "Hebrew": "לזרע, צריך זמן.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162278"
+    },
+    {
+      "english": "Flow with, what is.",
+      "Hebrew": "התקדם עם, מה שיש.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162279"
+    },
+    {
+      "english": "Patience, brings peace.",
+      "Hebrew": "סבלנות, מביאה שלווה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162280"
+    },
+    {
+      "english": "Allow the space, to breathe.",
+      "Hebrew": "אפשר את המקום, לנשום.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162280"
+    },
+    {
+      "english": "Your time will come, soon.",
+      "Hebrew": "הזמן שלך יבוא, בקרוב.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162281"
+    },
+    {
+      "english": "Be gentle, with the waiting.",
+      "Hebrew": "היה עדין, עם ההמתנה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162281"
+    },
+    {
+      "english": "The puzzle, will complete.",
+      "Hebrew": "הפאזל, ישלים.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162282"
+    },
+    {
+      "english": "Let it unfold, at its pace.",
+      "Hebrew": "תן לזה להיפתח, בקצב שלו.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162283"
+    },
+    {
+      "english": "Patience, creates space.",
+      "Hebrew": "סבלנות, יוצרת מקום.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162283"
+    },
+    {
+      "english": "Trust the journey, it's unfolding.",
+      "Hebrew": "סמוך על המסע, הוא מתפתח.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162284"
+    },
+    {
+      "english": "Slow down, enjoy the ride.",
+      "Hebrew": "תאט, תהנה מהדרך.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162285"
+    },
+    {
+      "english": "One step, at a time.",
+      "Hebrew": "צעד אחד, בכל פעם.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162286"
+    },
+    {
+      "english": "Breathe deep, and wait.",
+      "Hebrew": "נשום עמוק, וחכה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162287"
+    },
+    {
+      "english": "Trust the process, friend.",
+      "Hebrew": "סמוך על התהליך, חבר.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162287"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "Hebrew": "רומא לא נבנתה, ביום.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162288"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "Hebrew": "סבלנות, היא מתנה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162289"
+    },
+    {
+      "english": "Don't rush, the blooming.",
+      "Hebrew": "אל תמהר, לפריחה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162289"
+    },
+    {
+      "english": "Patience, pays off.",
+      "Hebrew": "סבלנות, משתלמת.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162290"
+    },
+    {
+      "english": "Let things unfold, naturally.",
+      "Hebrew": "תן לדברים להתפתח, באופן טבעי.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162290"
+    },
+    {
+      "english": "The right moment, will come.",
+      "Hebrew": "הרגע הנכון, יגיע.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162291"
+    },
+    {
+      "english": "Wait for the green light.",
+      "Hebrew": "חכה לאור הירוק.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162291"
+    },
+    {
+      "english": "Give it, some time.",
+      "Hebrew": "תן לזה, קצת זמן.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162292"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "Hebrew": "היה סבלני, עם עצמך.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162293"
+    },
+    {
+      "english": "Stillness, brings clarity.",
+      "Hebrew": "שקט, מביא בהירות.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162293"
+    },
+    {
+      "english": "The waiting, is part of it.",
+      "Hebrew": "ההמתנה, היא חלק מזה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162294"
+    },
+    {
+      "english": "Cultivate, your patience.",
+      "Hebrew": "טפח, את סבלנותך.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162294"
+    },
+    {
+      "english": "Let the garden, grow.",
+      "Hebrew": "תן לגינה, לגדול.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162295"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "Hebrew": "סבלנות, היא מידה טובה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162296"
+    },
+    {
+      "english": "Don't force, it.",
+      "Hebrew": "אל תכריח, את זה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162297"
+    },
+    {
+      "english": "The best things, ripen slowly.",
+      "Hebrew": "הדברים הטובים, מבשילים לאט.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162297"
+    },
+    {
+      "english": "Allow space, for growth.",
+      "Hebrew": "אפשר מקום, לצמיחה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162298"
+    },
+    {
+      "english": "Your time, is coming.",
+      "Hebrew": "הזמן שלך, מגיע.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162299"
+    },
+    {
+      "english": "Patience, is a superpower.",
+      "Hebrew": "סבלנות, היא כוח על.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162299"
+    },
+    {
+      "english": "Observe, and wait.",
+      "Hebrew": "צפה, והמתן.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162300"
+    },
+    {
+      "english": "The universe, has a plan.",
+      "Hebrew": "ליקום, יש תוכנית.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162301"
+    },
+    {
+      "english": "Be still, and know.",
+      "Hebrew": "היה שקט, ודע.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162301"
+    },
+    {
+      "english": "Let it be, a journey.",
+      "Hebrew": "תן לזה להיות, מסע.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162302"
+    },
+    {
+      "english": "Good things, are worth waiting.",
+      "Hebrew": "דברים טובים, שווים המתנה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162302"
+    },
+    {
+      "english": "Trust the timing, of life.",
+      "Hebrew": "סמוך על התזמון, של החיים.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162303"
+    },
+    {
+      "english": "Practice, being present.",
+      "Hebrew": "תרגל, להיות נוכח.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162304"
+    },
+    {
+      "english": "The seed, needs time.",
+      "Hebrew": "לזרע, צריך זמן.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162304"
+    },
+    {
+      "english": "Flow with, what is.",
+      "Hebrew": "התקדם עם, מה שיש.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162305"
+    },
+    {
+      "english": "Patience, brings peace.",
+      "Hebrew": "סבלנות, מביאה שלווה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162305"
+    },
+    {
+      "english": "Allow the space, to breathe.",
+      "Hebrew": "אפשר את המקום, לנשום.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162306"
+    },
+    {
+      "english": "Your time will come, soon.",
+      "Hebrew": "הזמן שלך יבוא, בקרוב.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162307"
+    },
+    {
+      "english": "Be gentle, with the waiting.",
+      "Hebrew": "היה עדין, עם ההמתנה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162307"
+    },
+    {
+      "english": "The puzzle, will complete.",
+      "Hebrew": "הפאזל, ישלים.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162308"
+    },
+    {
+      "english": "Let it unfold, at its pace.",
+      "Hebrew": "תן לזה להיפתח, בקצב שלו.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162309"
+    },
+    {
+      "english": "Patience, creates space.",
+      "Hebrew": "סבלנות, יוצרת מקום.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162309"
+    },
+    {
+      "english": "Trust the journey, it's unfolding.",
+      "Hebrew": "סמוך על המסע, הוא מתפתח.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162310"
+    },
+    {
+      "english": "Slow down, enjoy the ride.",
+      "Hebrew": "תאט, תהנה מהדרך.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162310"
+    },
+    {
+      "english": "One step, at a time.",
+      "Hebrew": "צעד אחד, בכל פעם.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162311"
+    },
+    {
+      "english": "Breathe deep, and wait.",
+      "Hebrew": "נשום עמוק, וחכה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162312"
+    },
+    {
+      "english": "Trust the process, friend.",
+      "Hebrew": "סמוך על התהליך, חבר.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162312"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "Hebrew": "רומא לא נבנתה, ביום.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162313"
+    },
+    {
+      "english": "Rome wasn't built, in a day.",
+      "Hebrew": "סבלנות, היא מתנה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162313"
+    },
+    {
+      "english": "Don't rush, the blooming.",
+      "Hebrew": "אל תמהר, לפריחה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162314"
+    },
+    {
+      "english": "Patience, pays off.",
+      "Hebrew": "סבלנות, משתלמת.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162314"
+    },
+    {
+      "english": "Let things unfold, naturally.",
+      "Hebrew": "תן לדברים להתפתח, באופן טבעי.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162315"
+    },
+    {
+      "english": "The right moment, will come.",
+      "Hebrew": "הרגע הנכון, יגיע.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162315"
+    },
+    {
+      "english": "Wait for the green light.",
+      "Hebrew": "חכה לאור הירוק.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162317"
+    },
+    {
+      "english": "Give it, some time.",
+      "Hebrew": "תן לזה, קצת זמן.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162318"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "Hebrew": "היה סבלני, עם עצמך.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162318"
+    },
+    {
+      "english": "Stillness, brings clarity.",
+      "Hebrew": "שקט, מביא בהירות.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162319"
+    },
+    {
+      "english": "The waiting, is part of it.",
+      "Hebrew": "ההמתנה, היא חלק מזה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162319"
+    },
+    {
+      "english": "Cultivate, your patience.",
+      "Hebrew": "טפח, את סבלנותך.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162320"
+    },
+    {
+      "english": "Let the garden, grow.",
+      "Hebrew": "תן לגינה, לגדול.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162321"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "Hebrew": "סבלנות, היא מידה טובה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162322"
+    },
+    {
+      "english": "Don't force, it.",
+      "Hebrew": "אל תכריח, את זה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162322"
+    },
+    {
+      "english": "The best things, ripen slowly.",
+      "Hebrew": "הדברים הטובים, מבשילים לאט.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162323"
+    },
+    {
+      "english": "Allow space, for growth.",
+      "Hebrew": "אפשר מקום, לצמיחה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162324"
+    },
+    {
+      "english": "Your time, is coming.",
+      "Hebrew": "הזמן שלך, מגיע.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162325"
+    },
+    {
+      "english": "Patience, is a superpower.",
+      "Hebrew": "סבלנות, היא כוח על.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162325"
+    },
+    {
+      "english": "Observe, and wait.",
+      "Hebrew": "צפה, והמתן.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162326"
+    },
+    {
+      "english": "The universe, has a plan.",
+      "Hebrew": "ליקום, יש תוכנית.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162327"
+    },
+    {
+      "english": "Be still, and know.",
+      "Hebrew": "היה שקט, ודע.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162327"
+    },
+    {
+      "english": "Let it be, a journey.",
+      "Hebrew": "תן לזה להיות, מסע.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162328"
+    },
+    {
+      "english": "Good things, are worth waiting.",
+      "Hebrew": "דברים טובים, שווים המתנה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162328"
+    },
+    {
+      "english": "Trust the timing, of life.",
+      "Hebrew": "סמוך על התזמון, של החיים.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162329"
+    },
+    {
+      "english": "Practice, being present.",
+      "Hebrew": "תרגל, להיות נוכח.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162329"
+    },
+    {
+      "english": "The seed, needs time.",
+      "Hebrew": "לזרע, צריך זמן.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162330"
+    },
+    {
+      "english": "Flow with, what is.",
+      "Hebrew": "התקדם עם, מה שיש.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162331"
+    },
+    {
+      "english": "Patience, brings peace.",
+      "Hebrew": "סבלנות, מביאה שלווה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162331"
+    },
+    {
+      "english": "Allow the space, to breathe.",
+      "Hebrew": "אפשר את המקום, לנשום.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162332"
+    },
+    {
+      "english": "Your time will come, soon.",
+      "Hebrew": "הזמן שלך יבוא, בקרוב.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162332"
+    },
+    {
+      "english": "Be gentle, with the waiting.",
+      "Hebrew": "היה עדין, עם ההמתנה.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162333"
+    },
+    {
+      "english": "The puzzle, will complete.",
+      "Hebrew": "הפאזל, ישלים.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162333"
+    },
+    {
+      "english": "Let it unfold, at its pace.",
+      "Hebrew": "תן לזה להיפתח, בקצב שלו.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162334"
+    },
+    {
+      "english": "Patience, creates space.",
+      "Hebrew": "סבלנות, יוצרת מקום.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162335"
+    },
+    {
+      "english": "Trust the journey, it's unfolding.",
+      "Hebrew": "סמוך על המסע, הוא מתפתח.",
+      "category": "Patience",
+      "generated_at": "2026-07-17T03:55:44.162335"
     }
   ],
-  "last_updated": "2026-07-16T03:56:34.771417"
+  "last_updated": "2026-07-17T03:55:44.162336"
 }
