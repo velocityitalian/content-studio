@@ -2879,7 +2879,727 @@
       "Hebrew": "סמוך על המסע, הוא מתפתח.",
       "category": "Patience",
       "generated_at": "2026-07-17T03:55:44.162335"
+    },
+    {
+      "english": "Feel the sunshine, inside.",
+      "Hebrew": "תרגיש את השמש, בפנים.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550376"
+    },
+    {
+      "english": "This moment, is pure gold.",
+      "Hebrew": "הרגע הזה, זהב טהור.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550383"
+    },
+    {
+      "english": "Laugh out loud, every day.",
+      "Hebrew": "צחק בקול, כל יום.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550385"
+    },
+    {
+      "english": "Smile, it's contagious.",
+      "Hebrew": "חייך, זה מדבק.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550386"
+    },
+    {
+      "english": "Find the joy, in small things.",
+      "Hebrew": "מצא את השמחה, בדברים הקטנים.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550388"
+    },
+    {
+      "english": "A happy heart, shines bright.",
+      "Hebrew": "לב שמח, זורח.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550390"
+    },
+    {
+      "english": "Sing your own song, loudly.",
+      "Hebrew": "שיר את השיר שלך, חזק.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550391"
+    },
+    {
+      "english": "Dance like nobody's watching.",
+      "Hebrew": "רקוד כאילו, אף אחד לא רואה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550394"
+    },
+    {
+      "english": "This feeling, is wonderful.",
+      "Hebrew": "ההרגשה הזו, נפלאה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550395"
+    },
+    {
+      "english": "Embrace the good vibes, always.",
+      "Hebrew": "אמץ את הוויבס, תמיד.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550397"
+    },
+    {
+      "english": "Spread kindness, like confetti.",
+      "Hebrew": "פזר נדיבות, כמו קונפטי.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550398"
+    },
+    {
+      "english": "Feel the lightness, of being.",
+      "Hebrew": "הרגש את הקלות, של הקיום.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550399"
+    },
+    {
+      "english": "This is pure bliss, right now.",
+      "Hebrew": "זה אושר טהור, עכשיו.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550401"
+    },
+    {
+      "english": "Let joy bubble up, inside you.",
+      "Hebrew": "תן לשמחה, לעלות בפנים.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550402"
+    },
+    {
+      "english": "Celebrate, every little win.",
+      "Hebrew": "חגוג, כל ניצחון קטן.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550403"
+    },
+    {
+      "english": "Your smile, brightens my day.",
+      "Hebrew": "החיוך שלך, מאיר את היום.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550404"
+    },
+    {
+      "english": "Feel the good energy, flowing.",
+      "Hebrew": "הרגש את האנרגיה הטובה, זורמת.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550405"
+    },
+    {
+      "english": "Today, is a gift.",
+      "Hebrew": "היום, הוא מתנה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550406"
+    },
+    {
+      "english": "Open your heart, to happiness.",
+      "Hebrew": "פתח את הלב, לאושר.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550407"
+    },
+    {
+      "english": "Life is sweet, enjoy it.",
+      "Hebrew": "החיים מתוקים, תהנה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550408"
+    },
+    {
+      "english": "This is your happy place.",
+      "Hebrew": "זה המקום השמח שלך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550409"
+    },
+    {
+      "english": "Let gratitude, fill you up.",
+      "Hebrew": "תן לתודה, למלא אותך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550410"
+    },
+    {
+      "english": "Find your spark, and shine.",
+      "Hebrew": "מצא את הניצוץ שלך, וזהר.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550411"
+    },
+    {
+      "english": "Good times, are here.",
+      "Hebrew": "זמנים טובים, באו.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550412"
+    },
+    {
+      "english": "This moment, feels magical.",
+      "Hebrew": "הרגע הזה, מרגיש קסום.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550414"
+    },
+    {
+      "english": "A little bit of joy, goes far.",
+      "Hebrew": "קצת שמחה, עושה דרך ארוכה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550414"
+    },
+    {
+      "english": "Breathe in joy, breathe out smiles.",
+      "Hebrew": "נשום שמחה, נשוף חיוכים.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550416"
+    },
+    {
+      "english": "Your laughter, is music.",
+      "Hebrew": "הצחוק שלך, הוא מוזיקה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550417"
+    },
+    {
+      "english": "Let happiness, surround you.",
+      "Hebrew": "תן לאושר, להקיף אותך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550418"
+    },
+    {
+      "english": "This is what it feels like, to be alive.",
+      "Hebrew": "ככה זה מרגיש, להיות חי.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550419"
+    },
+    {
+      "english": "Feel the peace, wash over you.",
+      "Hebrew": "הרגש את השקט, שוטף אותך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550420"
+    },
+    {
+      "english": "Your heart is full, of light.",
+      "Hebrew": "הלב שלך מלא, באור.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550421"
+    },
+    {
+      "english": "This is pure delight, truly.",
+      "Hebrew": "זה תענוג צרוף, באמת.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550422"
+    },
+    {
+      "english": "Find your happy rhythm, and dance.",
+      "Hebrew": "מצא את הקצב השמח שלך, ורקוד.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550423"
+    },
+    {
+      "english": "Let optimism, guide you.",
+      "Hebrew": "תן לאופטימיות, להדריך אותך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550424"
+    },
+    {
+      "english": "This feeling, is everything.",
+      "Hebrew": "ההרגשה הזו, זה הכל.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550425"
+    },
+    {
+      "english": "Enjoy the simple pleasures, always.",
+      "Hebrew": "תהנה מהתענוגות הפשוטים, תמיד.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550426"
+    },
+    {
+      "english": "Your inner joy, is your power.",
+      "Hebrew": "השמחה הפנימית שלך, היא הכוח שלך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550427"
+    },
+    {
+      "english": "Feel the warmth, of this moment.",
+      "Hebrew": "הרגש את החום, של הרגע.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550428"
+    },
+    {
+      "english": "Today feels, like a blessing.",
+      "Hebrew": "היום מרגיש, כמו ברכה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550429"
+    },
+    {
+      "english": "Feel the sunshine, inside.",
+      "Hebrew": "תרגיש את השמש, בפנים.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550430"
+    },
+    {
+      "english": "This moment, is pure gold.",
+      "Hebrew": "הרגע הזה, זהב טהור.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550432"
+    },
+    {
+      "english": "Laugh out loud, every day.",
+      "Hebrew": "צחק בקול, כל יום.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550434"
+    },
+    {
+      "english": "Smile, it's contagious.",
+      "Hebrew": "חייך, זה מדבק.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550435"
+    },
+    {
+      "english": "Find the joy, in small things.",
+      "Hebrew": "מצא את השמחה, בדברים הקטנים.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550436"
+    },
+    {
+      "english": "A happy heart, shines bright.",
+      "Hebrew": "לב שמח, זורח.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550437"
+    },
+    {
+      "english": "Sing your own song, loudly.",
+      "Hebrew": "שיר את השיר שלך, חזק.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550438"
+    },
+    {
+      "english": "Dance like nobody's watching.",
+      "Hebrew": "רקוד כאילו, אף אחד לא רואה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550439"
+    },
+    {
+      "english": "This feeling, is wonderful.",
+      "Hebrew": "ההרגשה הזו, נפלאה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550440"
+    },
+    {
+      "english": "Embrace the good vibes, always.",
+      "Hebrew": "אמץ את הוויבס, תמיד.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550441"
+    },
+    {
+      "english": "Spread kindness, like confetti.",
+      "Hebrew": "פזר נדיבות, כמו קונפטי.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550442"
+    },
+    {
+      "english": "Feel the lightness, of being.",
+      "Hebrew": "הרגש את הקלות, של הקיום.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550444"
+    },
+    {
+      "english": "This is pure bliss, right now.",
+      "Hebrew": "זה אושר טהור, עכשיו.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550445"
+    },
+    {
+      "english": "Let joy bubble up, inside you.",
+      "Hebrew": "תן לשמחה, לעלות בפנים.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550446"
+    },
+    {
+      "english": "Celebrate, every little win.",
+      "Hebrew": "חגוג, כל ניצחון קטן.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550447"
+    },
+    {
+      "english": "Your smile, brightens my day.",
+      "Hebrew": "החיוך שלך, מאיר את היום.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550448"
+    },
+    {
+      "english": "Feel the good energy, flowing.",
+      "Hebrew": "הרגש את האנרגיה הטובה, זורמת.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550449"
+    },
+    {
+      "english": "Today, is a gift.",
+      "Hebrew": "היום, הוא מתנה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550450"
+    },
+    {
+      "english": "Open your heart, to happiness.",
+      "Hebrew": "פתח את הלב, לאושר.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550451"
+    },
+    {
+      "english": "Life is sweet, enjoy it.",
+      "Hebrew": "החיים מתוקים, תהנה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550455"
+    },
+    {
+      "english": "This is your happy place.",
+      "Hebrew": "זה המקום השמח שלך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550456"
+    },
+    {
+      "english": "Let gratitude, fill you up.",
+      "Hebrew": "תן לתודה, למלא אותך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550457"
+    },
+    {
+      "english": "Find your spark, and shine.",
+      "Hebrew": "מצא את הניצוץ שלך, וזהר.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550458"
+    },
+    {
+      "english": "Good times, are here.",
+      "Hebrew": "זמנים טובים, באו.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550459"
+    },
+    {
+      "english": "This moment, feels magical.",
+      "Hebrew": "הרגע הזה, מרגיש קסום.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550460"
+    },
+    {
+      "english": "A little bit of joy, goes far.",
+      "Hebrew": "קצת שמחה, עושה דרך ארוכה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550462"
+    },
+    {
+      "english": "Breathe in joy, breathe out smiles.",
+      "Hebrew": "נשום שמחה, נשוף חיוכים.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550463"
+    },
+    {
+      "english": "Your laughter, is music.",
+      "Hebrew": "הצחוק שלך, הוא מוזיקה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550464"
+    },
+    {
+      "english": "Let happiness, surround you.",
+      "Hebrew": "תן לאושר, להקיף אותך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550465"
+    },
+    {
+      "english": "This is what it feels like, to be alive.",
+      "Hebrew": "ככה זה מרגיש, להיות חי.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550466"
+    },
+    {
+      "english": "Feel the peace, wash over you.",
+      "Hebrew": "הרגש את השקט, שוטף אותך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550467"
+    },
+    {
+      "english": "Your heart is full, of light.",
+      "Hebrew": "הלב שלך מלא, באור.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550468"
+    },
+    {
+      "english": "This is pure delight, truly.",
+      "Hebrew": "זה תענוג צרוף, באמת.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550469"
+    },
+    {
+      "english": "Find your happy rhythm, and dance.",
+      "Hebrew": "מצא את הקצב השמח שלך, ורקוד.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550470"
+    },
+    {
+      "english": "Let optimism, guide you.",
+      "Hebrew": "תן לאופטימיות, להדריך אותך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550471"
+    },
+    {
+      "english": "This feeling, is everything.",
+      "Hebrew": "ההרגשה הזו, זה הכל.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550473"
+    },
+    {
+      "english": "Enjoy the simple pleasures, always.",
+      "Hebrew": "תהנה מהתענוגות הפשוטים, תמיד.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550474"
+    },
+    {
+      "english": "Your inner joy, is your power.",
+      "Hebrew": "השמחה הפנימית שלך, היא הכוח שלך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550475"
+    },
+    {
+      "english": "Feel the warmth, of this moment.",
+      "Hebrew": "הרגש את החום, של הרגע.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550476"
+    },
+    {
+      "english": "Today feels, like a blessing.",
+      "Hebrew": "היום מרגיש, כמו ברכה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550477"
+    },
+    {
+      "english": "Feel the sunshine, inside.",
+      "Hebrew": "תרגיש את השמש, בפנים.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550478"
+    },
+    {
+      "english": "This moment, is pure gold.",
+      "Hebrew": "הרגע הזה, זהב טהור.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550479"
+    },
+    {
+      "english": "Laugh out loud, every day.",
+      "Hebrew": "צחק בקול, כל יום.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550480"
+    },
+    {
+      "english": "Smile, it's contagious.",
+      "Hebrew": "חייך, זה מדבק.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550481"
+    },
+    {
+      "english": "Find the joy, in small things.",
+      "Hebrew": "מצא את השמחה, בדברים הקטנים.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550482"
+    },
+    {
+      "english": "A happy heart, shines bright.",
+      "Hebrew": "לב שמח, זורח.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550483"
+    },
+    {
+      "english": "Sing your own song, loudly.",
+      "Hebrew": "שיר את השיר שלך, חזק.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550484"
+    },
+    {
+      "english": "Dance like nobody's watching.",
+      "Hebrew": "רקוד כאילו, אף אחד לא רואה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550485"
+    },
+    {
+      "english": "This feeling, is wonderful.",
+      "Hebrew": "ההרגשה הזו, נפלאה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550486"
+    },
+    {
+      "english": "Embrace the good vibes, always.",
+      "Hebrew": "אמץ את הוויבס, תמיד.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550487"
+    },
+    {
+      "english": "Spread kindness, like confetti.",
+      "Hebrew": "פזר נדיבות, כמו קונפטי.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550490"
+    },
+    {
+      "english": "Feel the lightness, of being.",
+      "Hebrew": "הרגש את הקלות, של הקיום.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550491"
+    },
+    {
+      "english": "This is pure bliss, right now.",
+      "Hebrew": "זה אושר טהור, עכשיו.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550492"
+    },
+    {
+      "english": "Let joy bubble up, inside you.",
+      "Hebrew": "תן לשמחה, לעלות בפנים.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550493"
+    },
+    {
+      "english": "Celebrate, every little win.",
+      "Hebrew": "חגוג, כל ניצחון קטן.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550494"
+    },
+    {
+      "english": "Your smile, brightens my day.",
+      "Hebrew": "החיוך שלך, מאיר את היום.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550495"
+    },
+    {
+      "english": "Feel the good energy, flowing.",
+      "Hebrew": "הרגש את האנרגיה הטובה, זורמת.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550496"
+    },
+    {
+      "english": "Today, is a gift.",
+      "Hebrew": "היום, הוא מתנה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550497"
+    },
+    {
+      "english": "Open your heart, to happiness.",
+      "Hebrew": "פתח את הלב, לאושר.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550498"
+    },
+    {
+      "english": "Life is sweet, enjoy it.",
+      "Hebrew": "החיים מתוקים, תהנה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550499"
+    },
+    {
+      "english": "This is your happy place.",
+      "Hebrew": "זה המקום השמח שלך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550500"
+    },
+    {
+      "english": "Let gratitude, fill you up.",
+      "Hebrew": "תן לתודה, למלא אותך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550501"
+    },
+    {
+      "english": "Find your spark, and shine.",
+      "Hebrew": "מצא את הניצוץ שלך, וזהר.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550502"
+    },
+    {
+      "english": "Good times, are here.",
+      "Hebrew": "זמנים טובים, באו.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550503"
+    },
+    {
+      "english": "This moment, feels magical.",
+      "Hebrew": "הרגע הזה, מרגיש קסום.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550504"
+    },
+    {
+      "english": "A little bit of joy, goes far.",
+      "Hebrew": "קצת שמחה, עושה דרך ארוכה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550505"
+    },
+    {
+      "english": "Breathe in joy, breathe out smiles.",
+      "Hebrew": "נשום שמחה, נשוף חיוכים.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550506"
+    },
+    {
+      "english": "Your laughter, is music.",
+      "Hebrew": "הצחוק שלך, הוא מוזיקה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550507"
+    },
+    {
+      "english": "Let happiness, surround you.",
+      "Hebrew": "תן לאושר, להקיף אותך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550508"
+    },
+    {
+      "english": "This is what it feels like, to be alive.",
+      "Hebrew": "ככה זה מרגיש, להיות חי.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550509"
+    },
+    {
+      "english": "Feel the peace, wash over you.",
+      "Hebrew": "הרגש את השקט, שוטף אותך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550510"
+    },
+    {
+      "english": "Your heart is full, of light.",
+      "Hebrew": "הלב שלך מלא, באור.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550511"
+    },
+    {
+      "english": "This is pure delight, truly.",
+      "Hebrew": "זה תענוג צרוף, באמת.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550512"
+    },
+    {
+      "english": "Find your happy rhythm, and dance.",
+      "Hebrew": "מצא את הקצב השמח שלך, ורקוד.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550513"
+    },
+    {
+      "english": "Let optimism, guide you.",
+      "Hebrew": "תן לאופטימיות, להדריך אותך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550515"
+    },
+    {
+      "english": "This feeling, is everything.",
+      "Hebrew": "ההרגשה הזו, זה הכל.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550516"
+    },
+    {
+      "english": "Enjoy the simple pleasures, always.",
+      "Hebrew": "תהנה מהתענוגות הפשוטים, תמיד.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550517"
+    },
+    {
+      "english": "Your inner joy, is your power.",
+      "Hebrew": "השמחה הפנימית שלך, היא הכוח שלך.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550518"
+    },
+    {
+      "english": "Feel the warmth, of this moment.",
+      "Hebrew": "הרגש את החום, של הרגע.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550519"
+    },
+    {
+      "english": "Today feels, like a blessing.",
+      "Hebrew": "היום מרגיש, כמו ברכה.",
+      "category": "Joy",
+      "generated_at": "2026-07-18T03:49:50.550520"
     }
   ],
-  "last_updated": "2026-07-17T03:55:44.162336"
+  "last_updated": "2026-07-18T03:49:50.550522"
 }
