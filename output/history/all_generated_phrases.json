@@ -6479,7 +6479,727 @@
       "Hebrew": "סליחה היא, מתנה, לעצמך.",
       "category": "Forgiveness",
       "generated_at": "2026-07-22T04:14:47.225153"
+    },
+    {
+      "english": "Explore more, learn fast.",
+      "Hebrew": "תטיילו יותר, תלמדו מהר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516439"
+    },
+    {
+      "english": "Taste the culture, find your way.",
+      "Hebrew": "לטעום את התרבות, למצוא את הדרך.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516449"
+    },
+    {
+      "english": "Ask locals, get good tips.",
+      "Hebrew": "לשאול מקומיים, לקבל טיפים טובים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516451"
+    },
+    {
+      "english": "Walk the streets, feel the vibe.",
+      "Hebrew": "לטייל ברחובות, להרגיש את האווירה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516452"
+    },
+    {
+      "english": "Try new foods, don't be shy.",
+      "Hebrew": "לנסות אוכל חדש, לא להתבייש.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516453"
+    },
+    {
+      "english": "Capture moments, with your heart.",
+      "Hebrew": "לתפוס רגעים, עם הלב.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516454"
+    },
+    {
+      "english": "Speak a little, connect more.",
+      "Hebrew": "לדבר קצת, להתחבר יותר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516456"
+    },
+    {
+      "english": "Discover hidden gems, on purpose.",
+      "Hebrew": "לגלות פנינים נסתרות, בכוונה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516458"
+    },
+    {
+      "english": "Go off map, find adventure.",
+      "Hebrew": "לצאת מהמפה, למצוא הרפתקה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516460"
+    },
+    {
+      "english": "Listen to music, feel the rhythm.",
+      "Hebrew": "להקשיב למוזיקה, להרגיש את הקצב.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516461"
+    },
+    {
+      "english": "Share stories, build friendships.",
+      "Hebrew": "לשתף סיפורים, לבנות חברויות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516463"
+    },
+    {
+      "english": "Embrace the chaos, find beauty.",
+      "Hebrew": "לאמץ את הכאוס, למצוא יופי.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516464"
+    },
+    {
+      "english": "Learn a phrase, every day.",
+      "Hebrew": "ללמוד משפט, כל יום.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516465"
+    },
+    {
+      "english": "See the sunrise, greet the day.",
+      "Hebrew": "לראות את הזריחה, לקבל את היום.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516466"
+    },
+    {
+      "english": "Taste local treats, pure delight.",
+      "Hebrew": "לטעום מטעמים מקומיים, הנאה צרופה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516467"
+    },
+    {
+      "english": "Ask for directions, make friends.",
+      "Hebrew": "לשאול לדרך, ליצור קשרים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516469"
+    },
+    {
+      "english": "Photograph life, with intention.",
+      "Hebrew": "לצלם חיים, בכוונה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516470"
+    },
+    {
+      "english": "Travel light, live fully.",
+      "Hebrew": "לנסוע קל, לחיות במלאות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516471"
+    },
+    {
+      "english": "Find markets, discover treasures.",
+      "Hebrew": "למצוא שווקים, לגלות אוצרות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516472"
+    },
+    {
+      "english": "Smile often, be understood.",
+      "Hebrew": "לחייך הרבה, להיות מובן.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516474"
+    },
+    {
+      "english": "Read signs, learn words.",
+      "Hebrew": "לקרוא שלטים, ללמוד מילים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516492"
+    },
+    {
+      "english": "Sit in cafes, observe people.",
+      "Hebrew": "לשבת בבתי קפה, להתבונן באנשים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516495"
+    },
+    {
+      "english": "Listen to the language, soak it in.",
+      "Hebrew": "להקשיב לשפה, לספוג אותה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516496"
+    },
+    {
+      "english": "Buy local art, support artists.",
+      "Hebrew": "לקנות אומנות מקומית, לתמוך באמנים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516497"
+    },
+    {
+      "english": "Explore by foot, see details.",
+      "Hebrew": "לחקור ברגל, לראות פרטים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516498"
+    },
+    {
+      "english": "Enjoy the journey, not just destination.",
+      "Hebrew": "ליהנות מהדרך, לא רק מהיעד.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516499"
+    },
+    {
+      "english": "Ask about history, learn context.",
+      "Hebrew": "לשאול על היסטוריה, ללמוד הקשר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516500"
+    },
+    {
+      "english": "Try street food, for a thrill.",
+      "Hebrew": "לאכול אוכל רחוב, בשביל הריגוש.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516501"
+    },
+    {
+      "english": "Open your mind, to new ideas.",
+      "Hebrew": "לפתוח את המוח, לרעיונות חדשים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516503"
+    },
+    {
+      "english": "Wander aimlessly, find magic.",
+      "Hebrew": "ללכת ללא מטרה, למצוא קסם.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516504"
+    },
+    {
+      "english": "Meet people, hear their stories.",
+      "Hebrew": "לפגוש אנשים, לשמוע את סיפוריהם.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516505"
+    },
+    {
+      "english": "Take public transport, blend in.",
+      "Hebrew": "לקחת תחבורה ציבורית, להשתלב.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516506"
+    },
+    {
+      "english": "Learn customs, show respect.",
+      "Hebrew": "ללמוד מנהגים, להפגין כבוד.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516507"
+    },
+    {
+      "english": "Visit local markets, breathe the air.",
+      "Hebrew": "לבקר בשווקים מקומיים, לנשום את האוויר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516508"
+    },
+    {
+      "english": "Try local drinks, refresh yourself.",
+      "Hebrew": "לשתות משקאות מקומיים, לרענן את עצמך.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516509"
+    },
+    {
+      "english": "Enjoy the quiet moments, truly pause.",
+      "Hebrew": "ליהנות מהרגעים השקטים, לעצור באמת.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516510"
+    },
+    {
+      "english": "Get lost sometimes, find new paths.",
+      "Hebrew": "ללכת לאיבוד לפעמים, למצוא דרכים חדשות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516511"
+    },
+    {
+      "english": "Observe daily life, understand culture.",
+      "Hebrew": "להתבונן בחיי היומיום, להבין תרבות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516512"
+    },
+    {
+      "english": "Make eye contact, connect deeper.",
+      "Hebrew": "ליצור קשר עין, להתחבר עמוק יותר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516513"
+    },
+    {
+      "english": "Follow your curiosity, discover things.",
+      "Hebrew": "לעקוב אחר הסקרנות, לגלות דברים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516514"
+    },
+    {
+      "english": "Explore more, learn fast.",
+      "Hebrew": "תטיילו יותר, תלמדו מהר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516515"
+    },
+    {
+      "english": "Taste the culture, find your way.",
+      "Hebrew": "לטעום את התרבות, למצוא את הדרך.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516516"
+    },
+    {
+      "english": "Ask locals, get good tips.",
+      "Hebrew": "לשאול מקומיים, לקבל טיפים טובים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516518"
+    },
+    {
+      "english": "Walk the streets, feel the vibe.",
+      "Hebrew": "לטייל ברחובות, להרגיש את האווירה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516519"
+    },
+    {
+      "english": "Try new foods, don't be shy.",
+      "Hebrew": "לנסות אוכל חדש, לא להתבייש.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516520"
+    },
+    {
+      "english": "Capture moments, with your heart.",
+      "Hebrew": "לתפוס רגעים, עם הלב.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516521"
+    },
+    {
+      "english": "Speak a little, connect more.",
+      "Hebrew": "לדבר קצת, להתחבר יותר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516522"
+    },
+    {
+      "english": "Discover hidden gems, on purpose.",
+      "Hebrew": "לגלות פנינים נסתרות, בכוונה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516523"
+    },
+    {
+      "english": "Go off map, find adventure.",
+      "Hebrew": "לצאת מהמפה, למצוא הרפתקה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516524"
+    },
+    {
+      "english": "Listen to music, feel the rhythm.",
+      "Hebrew": "להקשיב למוזיקה, להרגיש את הקצב.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516525"
+    },
+    {
+      "english": "Share stories, build friendships.",
+      "Hebrew": "לשתף סיפורים, לבנות חברויות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516527"
+    },
+    {
+      "english": "Embrace the chaos, find beauty.",
+      "Hebrew": "לאמץ את הכאוס, למצוא יופי.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516528"
+    },
+    {
+      "english": "Learn a phrase, every day.",
+      "Hebrew": "ללמוד משפט, כל יום.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516529"
+    },
+    {
+      "english": "See the sunrise, greet the day.",
+      "Hebrew": "לראות את הזריחה, לקבל את היום.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516530"
+    },
+    {
+      "english": "Taste local treats, pure delight.",
+      "Hebrew": "לטעום מטעמים מקומיים, הנאה צרופה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516531"
+    },
+    {
+      "english": "Ask for directions, make friends.",
+      "Hebrew": "לשאול לדרך, ליצור קשרים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516532"
+    },
+    {
+      "english": "Photograph life, with intention.",
+      "Hebrew": "לצלם חיים, בכוונה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516533"
+    },
+    {
+      "english": "Travel light, live fully.",
+      "Hebrew": "לנסוע קל, לחיות במלאות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516534"
+    },
+    {
+      "english": "Find markets, discover treasures.",
+      "Hebrew": "למצוא שווקים, לגלות אוצרות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516535"
+    },
+    {
+      "english": "Smile often, be understood.",
+      "Hebrew": "לחייך הרבה, להיות מובן.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516536"
+    },
+    {
+      "english": "Read signs, learn words.",
+      "Hebrew": "לקרוא שלטים, ללמוד מילים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516537"
+    },
+    {
+      "english": "Sit in cafes, observe people.",
+      "Hebrew": "לשבת בבתי קפה, להתבונן באנשים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516541"
+    },
+    {
+      "english": "Listen to the language, soak it in.",
+      "Hebrew": "להקשיב לשפה, לספוג אותה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516543"
+    },
+    {
+      "english": "Buy local art, support artists.",
+      "Hebrew": "לקנות אומנות מקומית, לתמוך באמנים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516544"
+    },
+    {
+      "english": "Explore by foot, see details.",
+      "Hebrew": "לחקור ברגל, לראות פרטים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516545"
+    },
+    {
+      "english": "Enjoy the journey, not just destination.",
+      "Hebrew": "ליהנות מהדרך, לא רק מהיעד.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516546"
+    },
+    {
+      "english": "Ask about history, learn context.",
+      "Hebrew": "לשאול על היסטוריה, ללמוד הקשר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516547"
+    },
+    {
+      "english": "Try street food, for a thrill.",
+      "Hebrew": "לאכול אוכל רחוב, בשביל הריגוש.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516548"
+    },
+    {
+      "english": "Open your mind, to new ideas.",
+      "Hebrew": "לפתוח את המוח, לרעיונות חדשים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516549"
+    },
+    {
+      "english": "Wander aimlessly, find magic.",
+      "Hebrew": "ללכת ללא מטרה, למצוא קסם.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516550"
+    },
+    {
+      "english": "Meet people, hear their stories.",
+      "Hebrew": "לפגוש אנשים, לשמוע את סיפוריהם.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516551"
+    },
+    {
+      "english": "Take public transport, blend in.",
+      "Hebrew": "לקחת תחבורה ציבורית, להשתלב.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516552"
+    },
+    {
+      "english": "Learn customs, show respect.",
+      "Hebrew": "ללמוד מנהגים, להפגין כבוד.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516553"
+    },
+    {
+      "english": "Visit local markets, breathe the air.",
+      "Hebrew": "לבקר בשווקים מקומיים, לנשום את האוויר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516554"
+    },
+    {
+      "english": "Try local drinks, refresh yourself.",
+      "Hebrew": "לשתות משקאות מקומיים, לרענן את עצמך.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516557"
+    },
+    {
+      "english": "Enjoy the quiet moments, truly pause.",
+      "Hebrew": "ליהנות מהרגעים השקטים, לעצור באמת.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516558"
+    },
+    {
+      "english": "Get lost sometimes, find new paths.",
+      "Hebrew": "ללכת לאיבוד לפעמים, למצוא דרכים חדשות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516559"
+    },
+    {
+      "english": "Observe daily life, understand culture.",
+      "Hebrew": "להתבונן בחיי היומיום, להבין תרבות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516560"
+    },
+    {
+      "english": "Make eye contact, connect deeper.",
+      "Hebrew": "ליצור קשר עין, להתחבר עמוק יותר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516561"
+    },
+    {
+      "english": "Follow your curiosity, discover things.",
+      "Hebrew": "לעקוב אחר הסקרנות, לגלות דברים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516562"
+    },
+    {
+      "english": "Explore more, learn fast.",
+      "Hebrew": "תטיילו יותר, תלמדו מהר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516563"
+    },
+    {
+      "english": "Taste the culture, find your way.",
+      "Hebrew": "לטעום את התרבות, למצוא את הדרך.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516564"
+    },
+    {
+      "english": "Ask locals, get good tips.",
+      "Hebrew": "לשאול מקומיים, לקבל טיפים טובים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516565"
+    },
+    {
+      "english": "Walk the streets, feel the vibe.",
+      "Hebrew": "לטייל ברחובות, להרגיש את האווירה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516566"
+    },
+    {
+      "english": "Try new foods, don't be shy.",
+      "Hebrew": "לנסות אוכל חדש, לא להתבייש.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516567"
+    },
+    {
+      "english": "Capture moments, with your heart.",
+      "Hebrew": "לתפוס רגעים, עם הלב.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516568"
+    },
+    {
+      "english": "Speak a little, connect more.",
+      "Hebrew": "לדבר קצת, להתחבר יותר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516570"
+    },
+    {
+      "english": "Discover hidden gems, on purpose.",
+      "Hebrew": "לגלות פנינים נסתרות, בכוונה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516571"
+    },
+    {
+      "english": "Go off map, find adventure.",
+      "Hebrew": "לצאת מהמפה, למצוא הרפתקה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516572"
+    },
+    {
+      "english": "Listen to music, feel the rhythm.",
+      "Hebrew": "להקשיב למוזיקה, להרגיש את הקצב.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516573"
+    },
+    {
+      "english": "Share stories, build friendships.",
+      "Hebrew": "לשתף סיפורים, לבנות חברויות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516574"
+    },
+    {
+      "english": "Embrace the chaos, find beauty.",
+      "Hebrew": "לאמץ את הכאוס, למצוא יופי.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516575"
+    },
+    {
+      "english": "Learn a phrase, every day.",
+      "Hebrew": "ללמוד משפט, כל יום.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516577"
+    },
+    {
+      "english": "See the sunrise, greet the day.",
+      "Hebrew": "לראות את הזריחה, לקבל את היום.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516578"
+    },
+    {
+      "english": "Taste local treats, pure delight.",
+      "Hebrew": "לטעום מטעמים מקומיים, הנאה צרופה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516579"
+    },
+    {
+      "english": "Ask for directions, make friends.",
+      "Hebrew": "לשאול לדרך, ליצור קשרים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516580"
+    },
+    {
+      "english": "Photograph life, with intention.",
+      "Hebrew": "לצלם חיים, בכוונה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516581"
+    },
+    {
+      "english": "Travel light, live fully.",
+      "Hebrew": "לנסוע קל, לחיות במלאות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516582"
+    },
+    {
+      "english": "Find markets, discover treasures.",
+      "Hebrew": "למצוא שווקים, לגלות אוצרות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516583"
+    },
+    {
+      "english": "Smile often, be understood.",
+      "Hebrew": "לחייך הרבה, להיות מובן.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516584"
+    },
+    {
+      "english": "Read signs, learn words.",
+      "Hebrew": "לקרוא שלטים, ללמוד מילים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516585"
+    },
+    {
+      "english": "Sit in cafes, observe people.",
+      "Hebrew": "לשבת בבתי קפה, להתבונן באנשים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516586"
+    },
+    {
+      "english": "Listen to the language, soak it in.",
+      "Hebrew": "להקשיב לשפה, לספוג אותה.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516587"
+    },
+    {
+      "english": "Buy local art, support artists.",
+      "Hebrew": "לקנות אומנות מקומית, לתמוך באמנים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516588"
+    },
+    {
+      "english": "Explore by foot, see details.",
+      "Hebrew": "לחקור ברגל, לראות פרטים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516589"
+    },
+    {
+      "english": "Enjoy the journey, not just destination.",
+      "Hebrew": "ליהנות מהדרך, לא רק מהיעד.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516590"
+    },
+    {
+      "english": "Ask about history, learn context.",
+      "Hebrew": "לשאול על היסטוריה, ללמוד הקשר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516591"
+    },
+    {
+      "english": "Try street food, for a thrill.",
+      "Hebrew": "לאכול אוכל רחוב, בשביל הריגוש.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516592"
+    },
+    {
+      "english": "Open your mind, to new ideas.",
+      "Hebrew": "לפתוח את המוח, לרעיונות חדשים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516593"
+    },
+    {
+      "english": "Wander aimlessly, find magic.",
+      "Hebrew": "ללכת ללא מטרה, למצוא קסם.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516594"
+    },
+    {
+      "english": "Meet people, hear their stories.",
+      "Hebrew": "לפגוש אנשים, לשמוע את סיפוריהם.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516595"
+    },
+    {
+      "english": "Take public transport, blend in.",
+      "Hebrew": "לקחת תחבורה ציבורית, להשתלב.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516596"
+    },
+    {
+      "english": "Learn customs, show respect.",
+      "Hebrew": "ללמוד מנהגים, להפגין כבוד.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516597"
+    },
+    {
+      "english": "Visit local markets, breathe the air.",
+      "Hebrew": "לבקר בשווקים מקומיים, לנשום את האוויר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516598"
+    },
+    {
+      "english": "Try local drinks, refresh yourself.",
+      "Hebrew": "לשתות משקאות מקומיים, לרענן את עצמך.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516599"
+    },
+    {
+      "english": "Enjoy the quiet moments, truly pause.",
+      "Hebrew": "ליהנות מהרגעים השקטים, לעצור באמת.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516600"
+    },
+    {
+      "english": "Get lost sometimes, find new paths.",
+      "Hebrew": "ללכת לאיבוד לפעמים, למצוא דרכים חדשות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516601"
+    },
+    {
+      "english": "Observe daily life, understand culture.",
+      "Hebrew": "להתבונן בחיי היומיום, להבין תרבות.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516602"
+    },
+    {
+      "english": "Make eye contact, connect deeper.",
+      "Hebrew": "ליצור קשר עין, להתחבר עמוק יותר.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516603"
+    },
+    {
+      "english": "Follow your curiosity, discover things.",
+      "Hebrew": "לעקוב אחר הסקרנות, לגלות דברים.",
+      "category": "Purpose",
+      "generated_at": "2026-07-23T04:10:42.516604"
     }
   ],
-  "last_updated": "2026-07-22T04:14:47.225155"
+  "last_updated": "2026-07-23T04:10:42.516606"
 }
